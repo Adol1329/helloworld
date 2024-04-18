@@ -1,0 +1,20 @@
+.container h1{
+    margin-left: 4.5cm;
+    color: green;
+}
+.container h1:hover{
+    color: black;
+}
+.check_user{
+    margin-top: 1cm;
+    margin-left: 4cm;
+    color: orangered;
+    cursor: pointer;
+}
+.check_user h1:hover{
+    color: black;
+}
+.check_buyer{
+    margin-left: 21CM;
+    margin-top: -1.5cm;
+}

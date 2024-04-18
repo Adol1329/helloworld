@@ -1,0 +1,65 @@
+.container img{
+    width: 7.3cm;
+    border-radius: 30px;
+
+    
+}
+.container h2{
+    margin-left: 0.5cm;
+    margin-top: 0.3cm;
+    color: rgb(78, 66, 62);
+    font-size: 23px;
+    margin-top: 0cm;
+}
+.container h3{
+  margin-left: 5cm;
+   color: orangered;
+  font-size: 20px;
+  margin-top: -1.2cm;
+  cursor: pointer;
+
+}
+.container  a{
+    text-decoration: none;
+    }
+.container  h3:hover{
+color: black;
+} 
+.container h4{
+    margin-top: -0.5cm;
+    margin-left: 0.5cm;
+    color: rgb(186, 178, 178);
+}
+.user_form{
+    width: 22cm;
+    height: 3cm;
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 9cm;
+    margin-top: -18cm;
+    box-shadow: 5px 5px 5px 5px;
+}
+.user_form h1{
+    color: orange;
+    font-size: 30px;
+}
+.user_form h2{
+    margin-left: 8cm;
+    margin-top: -0.5cm;
+    color: palevioletred;
+    cursor: pointer;
+}
+.right_design{
+    margin-top: -13.2cm;
+    margin-left: 28cm;
+    width: 4cm;
+    height: 13cm;
+    background: rgba(28, 120, 23, 0.326);
+    border-radius: 20px;
+}
+.right_design h1{
+    margin-left: -3cm;
+  
+}
+
+
